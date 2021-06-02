@@ -1,4 +1,21 @@
-﻿# Galaxy Explorer
+﻿---
+page_type: sample
+name: Galaxy Explorer
+description: Open-source Windows Mixed Reality application originally developed in March 2016 as part of the [HoloLens 'Share Your Idea' campaign.
+languages:
+- csharp
+products:
+- windows-mixed-reality
+- hololens
+---
+
+# Galaxy Explorer
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+Supported Unity versions | [MRTK for Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) | [Visual Studio 2017](https://visualstudio.microsoft.com/) | [Windows SDK](https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk) 
+:-----------------: | :----------------: | :-----------------: | :----------------: |
+Unity 2018.3.8f1 or higher | 2.0.0.rc1 | 15.9+ | 18362+ |
 
 Galaxy Explorer is an open-source Windows Mixed Reality application that was originally developed in March 2016 as part of the [HoloLens 'Share Your Idea' campaign](https://blogs.windows.com/buildingapps/2015/12/01/announcing-the-microsoft-hololens-share-your-idea-campaign/) where the community submitted and voted on ideas. Since then Galaxy Explorer has been constantly updated with new features, also adding new platforms in the process.
 
@@ -19,16 +36,10 @@ The following platforms are supported by this project:
 - Windows Mixed Reality Headsets (VR)
 - Windows 10 Desktop
 
-## Software versions
+## Setup 
 
-The different versions that the current project is developed on:
-
-- [Unity](https://unity.com/) version 2018.3.8f1+
-- [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity), version 2.0.0.rc1
-- [Visual Studio 2017](https://visualstudio.microsoft.com/), 15.9+
-- [Windows SDK 18362+](https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk)
-
-Download all of the developer tools from the [Microsoft Developer Website](https://developer.microsoft.com/en-us/mixed-reality).
+1. Clone or download this sample repository.
+2. Download all of the developer tools from the [Microsoft Developer Website](https://developer.microsoft.com/en-us/mixed-reality).
 
 ## Application building blocks
 
