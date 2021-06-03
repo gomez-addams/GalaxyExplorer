@@ -1,7 +1,7 @@
 ﻿---
 page_type: sample
 name: Galaxy Explorer
-description: Open-source Windows Mixed Reality application originally developed in March 2016 as part of the [HoloLens 'Share Your Idea' campaign.
+description: Open-source Windows Mixed Reality application originally developed in March 2016 as part of the HoloLens 'Share Your Idea' campaign.
 languages:
 - csharp
 products:
